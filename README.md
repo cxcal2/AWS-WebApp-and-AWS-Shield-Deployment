@@ -1,4 +1,4 @@
-# AWS Web Application with Shield Protection
+# AWS Web Application with AWS Shield Protection
 
 Terraform configuration for a multi-account AWS infrastructure with DDoS protection using AWS Shield.
 
@@ -69,4 +69,4 @@ terraform destroy
 ```
 
 Note: Shield subscription has `skip_destroy = true` to prevent accidental cancellation.
-# aws-shield-deployment
+# aws-shield-Deployment
